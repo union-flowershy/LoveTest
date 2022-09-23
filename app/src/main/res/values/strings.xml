@@ -2,5 +2,14 @@
     <string name="app_name">LoveTest</string>
     <string name="main_title"> Lets find out\n your love type! </string>
     <string name="question"> There were favorite lowers\n in the flower base.\n As time goes, the flowers\n have all withered.\n What are you going to do with that? </string>
+    <string name="result"> You are a quitter! </string>
+    <string name="result2"> May be ou giv up on love too easily.. </string>
+
+
+    <!-- 선택목록 텍스트  -->
+    <string name="selction1"> 1. Throw it away. </string>
+    <string name="selction2"> 2. Water the flowers. </string>
+    <string name="selction3"> 3. Cut it off with sissors. </string>
+    <string name="selction4"> 4. Make them as dried flower. </string>
 
 </resources>
